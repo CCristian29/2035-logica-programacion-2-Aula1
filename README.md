@@ -1,1 +1,1 @@
-<h1>logica de programacion</h1>
+<h1 class="texr-center">logica de programacion</h1>
