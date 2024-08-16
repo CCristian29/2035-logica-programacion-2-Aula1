@@ -45,8 +45,4 @@ La desencriptación invierte el proceso de encriptación, reemplazando las combi
 
 ## Instalación
 
-No se requiere instalación. Simplemente clone el repositorio y abra el archivo `index.html` en su navegador favorito.
-
-```bash
-git clone https://github.com/tu-usuario/encriptador-texto.git
-cd encriptador-texto
+No se requiere instalación. Simplemente clone el repositorio y abra el archivo `index.html` en su navegador favorito o puede ingresar a la siguiente URL: https://ccristian29.github.io/encriptador_mensajes/
